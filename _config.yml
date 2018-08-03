@@ -1,0 +1,12 @@
+title: "Jocelyn Merivale"
+description: "Personal web site of Jocelyn Merivale."
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+sass:
+  style: compressed
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
